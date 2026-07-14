@@ -9,7 +9,7 @@ Aplikasi pemesanan makanan berbasis **React Native (Expo)** yang dibangun sebaga
 | Halaman Login | Detail Pesanan | Katalog Makanan | Peta Lokasi |
 |:---:|:---:|:---:|:---:|
 | <img src="assets/images/real_login_screenshot.png" width="250"/> | <img src="assets/images/real_screenshot_1.jpg" width="250"/> | <img src="assets/images/real_screenshot_2.jpg" width="250"/> | <img src="assets/images/real_screenshot_map.jpg" width="250"/> |
-| Autentikasi dengan JWT mock | foto bukti penerima | menu makanan bernomor urut + tombol Pesan | Menampilkan lokasi pengiriman dengan peta |
+| Autentikasi dengan JWT mock | Foto bukti penerima | Menu makanan bernomor urut + Tombol pesan | Menampilkan lokasi pengiriman dengan peta |
 
 ---
 
