@@ -4,7 +4,7 @@ Aplikasi pemesanan makanan berbasis **React Native (Expo)** yang dibangun sebaga
 
 ---
 
-## 📱 Tampilan Aplikasi
+## 📱 Tampilan Aplikasi Mobile
 
 | Halaman Login | Detail Pesanan | Katalog Makanan | Peta Lokasi |
 |:---:|:---:|:---:|:---:|
